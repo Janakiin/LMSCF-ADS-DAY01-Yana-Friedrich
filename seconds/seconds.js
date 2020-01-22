@@ -1,0 +1,1 @@
+var seconds = prompt("Enter a number");
